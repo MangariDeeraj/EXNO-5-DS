@@ -165,7 +165,7 @@ plt.ylabel('y-axis')
 plt.title('My bar chart!')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/d4b8d86f-bf5e-48ce-9328-50fa618369d6)
+![image](https://github.com/user-attachments/assets/a132c7cf-34ae-4d78-a577-9619e4347139)
 ```
 x=[2,8,10]
 y=[11,16,9]
@@ -179,7 +179,7 @@ plt.xlabel('X axis')
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/cdecfa24-f62d-4ce3-a395-2b427172809d)
+![image](https://github.com/user-attachments/assets/6f9cedf2-fbc1-409d-b3f2-322c460b2736)
 ````
 import matplotlib.pyplot as plt
 ages=[2,5,70,40,30,45,50,45,43,40,44,60,7,13,57,18,90,77,32,21,20,40]
