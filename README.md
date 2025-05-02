@@ -136,7 +136,7 @@ y3=[2,4,6,8,10]
 plt.fill_between(x,y1,color='blue')
 plt.fill_between(x,y2,color='green')
 ```
-![image](https://github.com/user-attachments/assets/13b2a636-c6b5-4efe-97ce-6f241188f2cc)
+![image](https://github.com/user-attachments/assets/db2797f3-9336-4ae0-9b21-d501e22fd631)
 ```
 import matplotlib.pyplot as plt
 import numpy as np
@@ -151,7 +151,7 @@ plt.plot(x,y2,color='black')
 plt.legend(['y1','y2'])
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/0e713ab2-f80e-447d-a5ef-1e65e42fe632)
+![image](https://github.com/user-attachments/assets/a8d6bb7d-b072-41f3-aa06-0ba090a0ccd0)
 
 ```
 import matplotlib.pyplot as plt
@@ -165,7 +165,9 @@ plt.ylabel('y-axis')
 plt.title('My bar chart!')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/a132c7cf-34ae-4d78-a577-9619e4347139)
+
+![image](https://github.com/user-attachments/assets/e1678918-0675-4e61-a983-e80e03ac55a7)
+
 ```
 x=[2,8,10]
 y=[11,16,9]
@@ -179,7 +181,7 @@ plt.xlabel('X axis')
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/6f9cedf2-fbc1-409d-b3f2-322c460b2736)
+![image](https://github.com/user-attachments/assets/5bd8c799-7d93-4f01-964b-a3b1d523d7cd)
 ````
 import matplotlib.pyplot as plt
 ages=[2,5,70,40,30,45,50,45,43,40,44,60,7,13,57,18,90,77,32,21,20,40]
